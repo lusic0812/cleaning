@@ -154,7 +154,9 @@ a.btnclick.no3 {
 a.btnclick.no4 {
     background: #fd9d15;
 }
-
+.yel-text{
+    color: #ffee36;
+}
 .infoBOX p {
     display: inline-block;
 }
