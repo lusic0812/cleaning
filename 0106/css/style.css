@@ -156,6 +156,7 @@ a.btnclick.no4 {
 }
 .yel-text{
     color: #ffee36;
+    padding:0px 15px;
 }
 .infoBOX p {
     display: inline-block;
@@ -168,12 +169,12 @@ a.btnclick.no4 {
 }
 
 .fullbg-2 {
-    background: #fff;
+    background: #ffea34;
 }
 
 .fullbg-2 p {
-    margin: 5px;
-    color: #868686;
+    margin: 20px auto 0px;
+    color: #000;
 }
 
 .bannerBOX {
